@@ -1,4 +1,4 @@
-## Hi there 👋   
+ 
 ---
 ![Intro Video](media/githubvid-ezgif.com-speed.gif)
 ## 💫 About Me
