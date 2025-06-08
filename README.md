@@ -2,7 +2,8 @@
 ---
 <div align="center">
   <img src="media/vfgithub.gif" alt="Intro Video" style="width: 100%; border-radius: 10px;" />
-</div>
+</div>   
+  
 ## 💫 About Me
 
 I'm a dedicated Data Analyst and AI enthusiast with a strong passion for Machine Learning 🤖, Competitive Programming 💻, and Blockchain 🔗. My journey is driven by curiosity and a desire to create intelligent, data-powered solutions that solve real-world challenges.    
