@@ -4,11 +4,13 @@
   <img src="media/vfgithub.gif" alt="Intro Video" style="width: 100%; border-radius: 10px;" />
 </div>   
   
-## 💫 About Me
+## 💫 About Me 
+   
+I'm a passionate Data Analyst and AI enthusiast focused on Machine Learning and programming.   
+I enjoy building smart solutions, solving real-world problems, and learning continuously.   
+Curious, collaborative, and driven by data — that's how I grow every day.     
 
-I'm a dedicated Data Analyst and AI enthusiast with a strong passion for Machine Learning 🤖, Competitive Programming 💻, and Blockchain 🔗. My journey is driven by curiosity and a desire to create intelligent, data-powered solutions that solve real-world challenges.    
-
-Whether it’s building predictive models, competing in coding contests, or exploring decentralized technologies, I thrive on learning, experimenting, and collaborating.    
+📁 This repository showcases my work in Data Analytics, Machine Learning — a reflection of my skills, passion, and growth in the field.   
 
 ---
 
